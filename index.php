@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:type" content="website">
-        <meta property="og:title" content="TIKTOK UserName Checker">
+        <meta property="og:title" content="welcome">
         <meta property="og:url" content="https://tykt0k.xyz/">
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:image" content="https://i.imgur.com/0bcCmOg.gif">
@@ -44,10 +44,10 @@
             <div id="center">
                 <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">TykT0k.xyz</h1>
                 <div class="socials">
-		<h4>Owners; covid#0001 / xences#0001</h4>
+		<h4>Owner; @overworkings / toppfloors </h4>
                     <span>
                         >:
-                <a href="https://discord.com/invite/ethical" style="text-decoration:none; font-family: derk; font-size: 1em;">discord server [Checker]</a>
+                <a href="https://instagram.com/12icah" style="text-decoration:none; font-family: derk; font-size: 1em;">instagram</a>
                     </span>
             </div>
         </main>
