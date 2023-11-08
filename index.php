@@ -2,12 +2,12 @@
 <html lang="en">
     <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <title>TIKTOK UserName Checker</title>
+        <title>home</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:type" content="website">
         <meta property="og:title" content="welcome">
-        <meta property="og:url" content="https://tykt0k.xyz/">
+        <meta property="og:url" content="https://home.sayslursdodrugs.fun/">
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:image" content="https://i.imgur.com/0bcCmOg.gif">
         <meta name="theme-color" content="#2f3136">
@@ -42,7 +42,7 @@
             <section class="fullscreen text-content">
             </div>
             <div id="center">
-                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">TykT0k.xyz</h1>
+                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">SSDD  ☆</h1>
                 <div class="socials">
 		<h4>Owner; @overworkings / toppfloors </h4>
                     <span>
