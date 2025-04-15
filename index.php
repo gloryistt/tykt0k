@@ -42,12 +42,12 @@
             <section class="fullscreen text-content">
             </div>
             <div id="center">
-                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">SSDD  ☆</h1>
+                <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">glo  ☆</h1>
                 <div class="socials">
 		<h4>Owner; @xn8j / glo </h4>
                     <span>
                         >:
-                <a href="https://x.com/knownabuser" style="text-decoration:none; font-family: derk; font-size: 1em;">instagram</a>
+                <a href="https://x.com/knownabuser" style="text-decoration:none; font-family: derk; font-size: 1em;">twitter</a>
                     </span>
             </div>
         </main>
