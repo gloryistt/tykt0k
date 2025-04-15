@@ -49,6 +49,10 @@
                         >:
                 <a href="https://x.com/knownabuser" style="text-decoration:none; font-family: derk; font-size: 1em;">twitter</a>
                     </span>
+			 <span>
+                        >:
+                <a href="https://guns.lol/knownabuser" style="text-decoration:none; font-family: derk; font-size: 1em;">guns.lol</a>
+                    </span>
             </div>
         </main>
 		<?php
