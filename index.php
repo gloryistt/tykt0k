@@ -34,7 +34,7 @@
                 </label>
             </div>
             <audio loop="" preload="auto" id="audio">
-                <source src="assets/audio/audio.mp3" type="audio/mp3">
+                <source src="audio.mp3" type="audio/mp3">
             </audio>
             <video muted="muted" loop="" playsinline="" preload="auto" class="fullscreen bg-video" id="video">
                 <source src="assets/images/bg.mp4" type="video/mp4">
